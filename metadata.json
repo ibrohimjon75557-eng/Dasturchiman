@@ -1,0 +1,6 @@
+{
+  "name": "VELORA",
+  "description": "Kelajak shu yerdan boshlanadi. Zamonaviy va futuristik dasturlash ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
